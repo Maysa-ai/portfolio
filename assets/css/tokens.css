@@ -1,0 +1,13 @@
+/* Maysa Aiman portfolio — shared design tokens.
+   Page stylesheets retain their existing cascade to preserve approved rendering. */
+:root {
+  --portfolio-ink: #17233B;
+  --portfolio-body: #48515A;
+  --portfolio-muted: #737A82;
+  --portfolio-teal: #14999B;
+  --portfolio-coral: #E56B4E;
+  --portfolio-ivory: #FCFAF7;
+  --portfolio-line: #DDE2E1;
+  --portfolio-sage: #F1F6F3;
+  --portfolio-canvas: #E9E8E4;
+}
